@@ -1,0 +1,7 @@
+*, html, body{margin: 0; padding: 0;list-style: none;text-decoration: none;box-sizing: border-box;}
+body {height: 100vh;}
+.cont {width: 1000px; margin: auto; margin-top: 5%; display: flex; justify-content: space-between;}
+.circle {width: 150px; height: 150px; border-radius: 100px; border: solid black 3px; background: #e391ff; color: black; font-size: 90px; padding-top: 20px; padding-left: 50px; cursor: pointer; margin-right: 15px; opacity: 0; transition: 1s;}
+.circle1 {opacity: 1;}
+
+
